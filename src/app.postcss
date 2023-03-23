@@ -1,0 +1,16 @@
+@tailwind components;
+
+html,
+body {
+	@apply h-full;
+}
+
+@layer components {
+	.container {
+		@apply mx-auto max-w-4xl p-6 lg:p-0;
+	}
+
+	.muted {
+		@apply text-gray-600 underline-offset-4 transition-all hover:underline dark:text-gray-300 dark:hover:text-primary-500;
+	}
+}
