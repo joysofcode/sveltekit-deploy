@@ -4,7 +4,7 @@ This is a starter full stack SvelteKit blog example for learning purposes and is
 
 ## Post
 
-✍️ https://joyofcode.xyz/deploying-your-sveltekit-project
+✍️ https://joyofcode.xyz/how-to-deploy-sveltekit
 
 ## Get Started
 
