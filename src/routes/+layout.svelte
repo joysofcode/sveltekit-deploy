@@ -12,7 +12,7 @@
 </script>
 
 <svelte:head>
-	<title>Gutenberg</title>
+	<title>Blog</title>
 	<link rel="icon" href="https://fav.farm/🔥" />
 </svelte:head>
 
