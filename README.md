@@ -1,10 +1,10 @@
-# Deploying Your SvelteKit Project
+# Deploy A Full Stack SvelteKit App
 
-This is a starter full stack SvelteKit blog example for learning purposes and is not meant to be used as a real blog.
+Learn how to deploy a full stack SvelteKit app with [Supabase](https://supabase.com/) and [Vercel](https://vercel.com/) for free.
 
 ## Post
 
-✍️ https://joyofcode.xyz/how-to-deploy-sveltekit
+✍️ https://joyofcode.xyz/sveltekit-deployment
 
 ## Get Started
 
